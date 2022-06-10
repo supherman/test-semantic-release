@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "semantic-release": "^17.1.1"
+    "semantic-release": "^19.0.3"
   },
   "repository": "git@github.com:supherman/test-semantic-release.git",
   "release": {
